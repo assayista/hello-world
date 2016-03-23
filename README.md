@@ -7,3 +7,6 @@ I am hoping to use/find/write a script that will help me to import Evernote file
 I think that I have found a script that will change Evernote files into text files.
 
 After that I plan to import those text files to Scrivener.
+
+https://raw.githubusercontent.com/panicsteve/enex-dump/master/enex-dump.php
+That is the website that seems to describe how to do it.
